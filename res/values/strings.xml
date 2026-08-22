@@ -28,18 +28,13 @@
     <string name="screen_key_launch_settings_page" translatable="false">launch_settings_page</string>
     <string name="screen_key_launch_app_shortcut_settings_page" translatable="false">launch_app_shortcut_settings_page</string>
 
-    <!-- Other non-translatable -->
-    <string name="summary_placeholder" translatable="false">&#160;</string>
-
     <!-- Entry points in Settings -->
     <string name="settings_entry_title">Quick Tap to start actions</string>
     <string name="settings_entry_summary_on">On / <xliff:g id="action" example="Take screenshot">%1$s</xliff:g></string>
     <string name="settings_entry_summary_off">Off</string>
-    <string name="settings_search_keywords">Quick Tap, back tap, tap, gesture, assist, assistant</string>
 
     <!-- Items in Quick Tap gesture settings -->
     <string name="setting_enabled_title">Use Quick Tap</string>
-    <string name="setting_footer_content">To perform an action, tap back of your phone twice near the middle</string>
     <string name="setting_sensitivity_title">Sensitivity</string>
     <string name="setting_sensitivity_light">Light tap</string>
     <string name="setting_sensitivity_heavy">Heavy tap</string>
